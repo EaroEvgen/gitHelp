@@ -12,9 +12,9 @@ https://git-scm.com/downloads/win
 
 После правильной установки команда 
 
-		'bash
-		$ git version
-		'
+	'''bash
+	$ git version
+	'''
 
 
  должна вернуть текущую версию.
